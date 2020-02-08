@@ -1,6 +1,6 @@
 {
-  "name": "fresh-require",
-  "version": "1.0.3",
+  "name": "@gitbook-ng/fresh-require",
+  "version": "1.0.4",
   "description": "Bypass the require cache when requiring a module – works with both node and browserify",
   "main": "index.js",
   "browser": "browser.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/fresh-require.git"
+    "url": "git://github.com/gitbook-ng/fresh-require.git"
   },
   "keywords": [
     "browserify",
@@ -47,8 +47,8 @@
     "ignore",
     "fresh"
   ],
-  "homepage": "https://github.com/hughsk/fresh-require",
+  "homepage": "https://github.com/gitbook-ng/fresh-require",
   "bugs": {
-    "url": "https://github.com/hughsk/fresh-require/issues"
+    "url": "https://github.com/gitbook-ng/fresh-require/issues"
   }
 }
