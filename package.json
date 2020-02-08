@@ -23,7 +23,7 @@
     "is-require": "0.0.1",
     "resolve": "^1.0.0",
     "shallow-copy": "0.0.1",
-    "sleuth": "^0.1.1",
+    "@gitbook-ng/sleuth": "^0.1.2",
     "through2": "^0.6.3"
   },
   "devDependencies": {
